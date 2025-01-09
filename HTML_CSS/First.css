@@ -1,5 +1,7 @@
 body {
     color: aliceblue;
-    background-color:rgb(52, 138, 172);
+}
+fieldset {
+    background-color: rgb(15, 74, 77);
 }
 
