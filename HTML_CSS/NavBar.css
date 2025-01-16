@@ -1,0 +1,31 @@
+.navbar{
+    background-color: rgb(91, 174, 206);
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.image{
+    width: 90px;
+    margin-right: 150px;
+}
+.menu-items{
+    display: flex;
+    width: 400px;
+    font-weight: 600;
+    justify-content: space-around;
+    font-size: 18px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    background-color: limegreen;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.home{
+    width: 20px;
+    height: 20px;
+    margin: 18px;
+}
