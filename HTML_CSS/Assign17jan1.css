@@ -1,0 +1,114 @@
+.parentaqua{
+    background-color: aqua;
+    height: 600px;
+    width: 1250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.green1{
+    height:550px;
+    width: 300px;
+    /* padding-top: 30px; */
+    background-color: greenyellow;
+}
+.green2{
+    background-color: greenyellow;
+    height:550px;
+    width: 750px;
+}
+.b1{
+    height: 40px;
+    width: 250px;
+    margin-top: 45px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b2{
+    height: 40px;
+    width: 250px;
+    margin-top: 45px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b3{
+    height: 40px;
+    width: 250px;
+    margin-top: 45px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b4{
+    height: 40px;
+    width: 250px;
+    margin-top: 45px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b5{
+    height: 40px;
+    width: 250px;
+    margin-top: 45px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b6{
+    height: 40px;
+    width: 250px;
+    margin-top: 45px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.OrangeBox{
+    height: 250px;
+    width: 650px;
+    background-color: rgb(227, 69, 11);
+    margin-top: 20px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.pink{
+    height: 250px;
+    width: 650px;
+    background-color:peachpuff;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.black1{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.black2{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.black3{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.black4{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.pink{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.orange1{
+    height: 130px;
+    width: 280px;
+    background-color: orangered;
+}
+.orange2{
+    height: 130px;
+    width: 280px;
+    background-color: orangered;
+}
