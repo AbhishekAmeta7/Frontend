@@ -1,0 +1,29 @@
+.box{
+    background-color: rgb(156, 186, 97);
+    
+    height: 500px;
+    width: 1250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.green{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+.blue{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.black{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
